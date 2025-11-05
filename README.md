@@ -2,7 +2,7 @@
 A friendly, witty, and smart chatbot built by Dhinesh Kannan — powered by Google Gemini API and Streamlit.  
 This AI assistant responds helpfully, remembers your chat context, and even types like a human ⚡  
 
-🌐 Live Demo: [My-AI Chatbot](https://my-ai-chatbot-dhineshkv.streamlit.app)  
+🌐 Live Demo: [My-AI Chatbot](https://my-ai-chatbot-cqoswbhlwxd5bdczmc5sbk.streamlit.app)  
 
 ---
 
