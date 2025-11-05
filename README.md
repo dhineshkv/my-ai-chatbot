@@ -24,12 +24,3 @@ This AI assistant responds helpfully, remembers your chat context, and even type
 | Hosting | Streamlit Community Cloud |
 | Version Control | Git + GitHub |
 
----
-
-## 🛠️ Local Setup
-If you want to run this project locally:
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/dhineshkv/my-ai-chatbot.git
-cd my-ai-chatbot
